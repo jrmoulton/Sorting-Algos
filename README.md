@@ -11,7 +11,7 @@ The time complexity of 4 differernt sorting algorithms is listed below along wit
 
 - QuickSort has a time complexity of $O(n*log\ n)$ and is much more efficient than the other sorting algorithms.
 
-![image](download.png)
+![image](images/download.png)
 
 The average time to run each of these algorithms can be seen in the table below. 
 | Algorithm     |  Average Time (s)|
