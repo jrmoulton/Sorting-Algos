@@ -20,6 +20,3 @@ The average time to run each of these algorithms can be seen in the table below.
 | Selection     | 0.564492 |
 | Insertion     | 0.389414 |
 | Quick         | 0.002406 |
-
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-<script type="text/x-mathjax-config"> MathJax.Hub.Config({ tex2jax: {inlineMath: [['$', '$']]}, messageStyle: "none" });</script>
